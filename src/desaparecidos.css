@@ -1,0 +1,25 @@
+body{
+    background: rgb(214, 167, 167);  }
+
+.desaparecidos{
+    background: rgb(177, 121, 255);
+    border-radius:5cap;
+}
+
+.nav{
+    background: red;
+}
+
+.login{
+    background: rgb(177, 121, 255);
+
+}
+
+.barra{
+    background: rgb(222, 199, 30);
+}
+
+.formulario{
+    background: rgb(177, 121, 255);
+
+}
